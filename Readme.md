@@ -1,5 +1,2 @@
-# Quake2 in VS2015
-
-Just open `quake2.sln` in VS2015 and build the solution.
-
-You still need a copy of Quake 2 to run the game.
+# whatplaces
+Whatplaces is a sourceport/modified client for Quake 2 providing the same features as Darkplaces, but for Quake 2!
